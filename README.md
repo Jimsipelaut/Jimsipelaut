@@ -24,7 +24,7 @@ An Informatics student at Universitas Bina Sarana Informatika with a strong anal
 ### 🚀 Key Highlights & Credentials
 * **Data Science Scholar:** Selected for the Data Scientist Program scholarship through Dicoding.
 * **Database Competency:** Successfully completed an intensive Database Administrator competency workshop.
-* **National Competitor:** Finalist/Participant in the GemasTIK national student competition representing UBSI under "Tim Hore".
+* **National Competitor:** Participant in the GemasTIK national student competition representing UBSI under "Tim Hore".
 * **Cybersecurity Foundation:** Certified/Participated in the Junior Cybersecurity Engineer program, strengthening data security awareness.
 
 ---
@@ -42,13 +42,6 @@ An Informatics student at Universitas Bina Sarana Informatika with a strong anal
 * **ukm-badminton-bsi** – Application deployment project, actively monitored via Railway to ensure system uptime, performance tracking, and backend stability.
 
 ---
-
-### 📈 GitHub Performance
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jimsipelaut&show_icons=true&theme=flat" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jimsipelaut&layout=compact&theme=flat" alt="Top Languages" />
-</p>
 
 ---
 
