@@ -13,10 +13,6 @@
   <a href="https://www.linkedin.com/in/muhammad-pashya-mahesa-farhat-03ab872ab">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://devpost.com/jimsipelaut">
-    <img src="https://img.shields.io/badge/Devpost-Portfolio-003E54?style=for-the-badge&logo=devpost&logoColor=white" alt="Devpost" />
-  </a>
-</p>
 
 ---
 
