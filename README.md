@@ -3,7 +3,7 @@
 <h3 align="center">Data Analyst | Business Analyst | Database & Web Development Enthusiast</h3>
 
 <p align="center">
-  An <strong>Information Systems</strong> student at Universitas Bina Sarana Informatika (GPA: 3.89 / 4.00)[cite: 1, 2] with a strong analytical mindset. I am passionate about transforming raw data into actionable business insights, optimizing database architectures, and bridging the gap between business needs and technical solutions.
+  An <strong>Information Systems</strong> student at Universitas Bina Sarana Informatika (GPA: 3.89 / 4.00) with a strong analytical mindset. I am passionate about transforming raw data into actionable business insights, optimizing database architectures, and bridging the gap between business needs and technical solutions.
 </p>
 
 <p align="center">
@@ -21,27 +21,27 @@
 ---
 
 ### 📊 Core Competencies & What I Do
-* **Data Analysis & Engineering:** Applying Python (Pandas) for data science to uncover trends, clean complex datasets, and build data-driven solutions. Experienced in executing ETL pipelines to process operational data[cite: 1, 2].
-* **Database Management:** Skilled in structured data workflows, data modeling, schema tuning, and query management from a dedicated Database Administrator competency workshop and freelance production environments (ensuring 99.9% uptime)[cite: 1, 2].
-* **Web & Backend Development:** Designing interactive landing pages and building efficient backend integrations tailored to business logic requirements[cite: 1, 2].
+* **Data Analysis & Engineering:** Applying Python (Pandas) for data science to uncover trends, clean complex datasets, and build data-driven solutions. Experienced in executing ETL pipelines to process operational data.
+* **Database Management:** Skilled in structured data workflows, data modeling, schema tuning, and query management from a dedicated Database Administrator competency workshop and freelance production environments (ensuring 99.9% uptime).
+* **Web & Backend Development:** Designing interactive landing pages and building efficient backend integrations tailored to business logic requirements.
 * **Business & Project Analysis:** Experienced in coordinating software engineering workflows as a Trello Group Board Administrator, ensuring technical milestones align with project requirements.
 
 ---
 
 ### 🛠️ Technical Tech Stack
-* **Languages:** Python (Data Science/Analytics), PHP, SQL, JavaScript (Asynchronous Logic)[cite: 1, 2].
-* **Databases & Data Warehousing:** MySQL, MariaDB, PostgreSQL, Google BigQuery[cite: 1, 2].
+* **Languages:** Python (Data Science/Analytics), PHP, SQL, JavaScript (Asynchronous Logic).
+* **Databases & Data Warehousing:** MySQL, MariaDB, PostgreSQL, Google BigQuery.
 * **Web Frameworks & Tools:** Laravel, HTML, CSS[cite: 1, 2].
-* **Data Visualization & Modeling:** Power BI, UML (Unified Modeling Language), Enterprise Architect[cite: 1, 2].
-* **Project Management & Version Control:** Git, GitHub Ecosystem, Trello (Agile/Scrum Workflow Management)[cite: 1, 2].
+* **Data Visualization & Modeling:** Power BI, UML (Unified Modeling Language), Enterprise Architect.
+* **Project Management & Version Control:** Git, GitHub Ecosystem, Trello (Agile/Scrum Workflow Management).
 * **Deployment & Cloud Infrastructure:** Railway (Application Hosting & Service Performance Monitoring).
 
 ---
 
 ### 📂 Featured Projects
-* 🛒 **Data Warehouse & ETL Pipeline (Superstore Dataset)** – Designed and executed comprehensive Python ETL pipelines to ingest and clean data, structuring cloud data warehouse schemas on Google BigQuery for dynamic dashboard visualization[cite: 1, 2].
-* 📍 **GPS-Based Employee Attendance System** – Architected a Laravel/MySQL backend to capture and process multi-dimensional geospatial data in real-time, optimizing relational queries for instant barcode validations[cite: 1, 2].
-* 💳 **University Payment Gateway Integration Simulator** – Engineered transaction database models using PHP and MySQL to systematically log, track, and audit financial simulation datasets[cite: 1, 2].
+* 🛒 **Data Warehouse & ETL Pipeline (Superstore Dataset)** – Designed and executed comprehensive Python ETL pipelines to ingest and clean data, structuring cloud data warehouse schemas on Google BigQuery for dynamic dashboard visualization.
+* 📍 **GPS-Based Employee Attendance System** – Architected a Laravel/MySQL backend to capture and process multi-dimensional geospatial data in real-time, optimizing relational queries for instant barcode validations.
+* 💳 **University Payment Gateway Integration Simulator** – Engineered transaction database models using PHP and MySQL to systematically log, track, and audit financial simulation datasets.
 * 🏗️ **Sagara_Baja** – Software development repository focusing on structured system architecture and repository management.
 * 🌿 **Sawit** – Code and data repository optimized for project execution, tracking, and implementation.
 * 🏸 **ukm-badminton-bsi** – Application deployment project, actively monitored via Railway to ensure system uptime, performance tracking, and backend stability.
@@ -49,11 +49,11 @@
 ---
 
 ### 🚀 Key Highlights & Credentials
-* 🥇 **Data Science Scholar:** Selected for the Data Scientist Program scholarship through Dicoding (Data Science Foundations Competency Certificate)[cite: 1, 2].
-* 🗄️ **Database Competency:** Successfully completed an intensive Database Administrator competency workshop and earned the *Certified Database Administrator (Data Management)* credential from BNSP[cite: 1, 2].
+* 🥇 **Data Science Scholar:** Selected for the Data Scientist Program scholarship through Dicoding (Data Science Foundations Competency Certificate).
+* 🗄️ **Database Competency:** Successfully completed an intensive Database Administrator competency workshop and earned the *Certified Database Administrator (Data Management)* credential from BNSP.
 * 🏆 **National Competitor:** Participant in the GemasTIK national student competition representing UBSI under "Tim Hore".
 * 🛡️ **Cybersecurity Foundation:** Certified/Participated in the Junior Cybersecurity Engineer program, strengthening data security awareness.
-* 🌐 **Additional Certifications:** *Responsive Web Design* (freeCodeCamp), *Intro to Data Analytics* (RevoU), and *IT Bootcamp Software Development*[cite: 1, 2].
+* 🌐 **Additional Certifications:** *Responsive Web Design* (freeCodeCamp), *Intro to Data Analytics* (RevoU), and *IT Bootcamp Software Development*.
 
 ---
 
